@@ -26,6 +26,6 @@ The following hardware was used to test the project (pin connections are given f
 + Joystick (connected to pins: BUTTON 17, HORIZONTAL 19, VERTICAL 20)
 + Nokia 5110 LCD (connected to pins: VCC 14, SCE 8, RESET 9, D/C 10, MOSI 11, SCLK 13, LED BACKLIGHT 21)
 
-LPC1768 pinout:
+### LPC1768 pinout
 
-![Pinout diagram of LPC1768 microcontroller](Microcontroller_image)
+![Pinout diagram of LPC1768 microcontroller](Microcontroller_image.png)
