@@ -32,23 +32,23 @@ The following hardware was used to test the project (pin connections are given f
 
 ### Pin connections
 
-Peripheral   | Peripheral connections | LPC1786 pin
--------------|------------------------|--------------
-Push Buttons | A                      | p29
-| B                      | p28
-| C                      | p27
-| D                      | p26
-RGB LED      | Red                    | p22
-| Green                  | p23
-| Blue                   | p24
-Joystick     | Button                 | p17
-| Horizontal             | p19
-| Vertical               | p20
-Nokia 5110   | Vcc                    | p14
-LCD          | SCE                    | p8
-| Reset                  | p9
-| D/C                    | p10
-| MOSI                   | p11
-| SCLK                   | p13
-| LED Backlight          | p21
+Peripheral    | Peripheral connections | LPC1786 pin
+--------------|------------------------|--------------
+Push Buttons  | A                      | p29
+"             | B                      | p28
+"             | C                      | p27
+"             | D                      | p26
+RGB LED       | Red                    | p22
+"             | Green                  | p23
+"             | Blue                   | p24
+Joystick      | Button                 | p17
+"             | Horizontal             | p19
+"             | Vertical               | p20
+Nokia 5110 LCD| Vcc                    | p14
+"             | SCE                    | p8
+"             | Reset                  | p9
+"             | D/C                    | p10
+"             | MOSI                   | p11
+"             | SCLK                   | p13
+"             | LED Backlight          | p21
 
