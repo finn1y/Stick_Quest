@@ -34,10 +34,10 @@ The following hardware was used to test the project (pin connections are given f
 
 Peripheral    | Peripheral connections | LPC1786 pin
 --------------|------------------------|--------------
-Push Buttons  | A                      | p29
-"             | B                      | p28
-"             | C                      | p27
-"             | D                      | p26
+Push Button A | pin                    | p29
+Push Button B | pin                    | p28
+Push Button C | pin                    | p27
+Push Button D | pin                    | p26
 RGB LED       | Red                    | p22
 "             | Green                  | p23
 "             | Blue                   | p24
