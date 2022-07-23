@@ -28,7 +28,7 @@ The following hardware was used to test the project (pin connections are given f
 
 ### LPC1768 pinout
 
-![Pinout diagram of LPC1768 microcontroller](Microcontroller_image.png)
+![Microcontroller_image](https://user-images.githubusercontent.com/75081535/180607982-215dc5e2-1476-4e84-b12e-1a585eefa617.png)
 
 ### Pin connections
 
@@ -51,4 +51,3 @@ Nokia 5110 LCD| Vcc                    | p14
 "             | MOSI                   | p11
 "             | SCLK                   | p13
 "             | LED Backlight          | p21
-
