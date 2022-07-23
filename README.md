@@ -28,7 +28,7 @@ The following hardware was used to test the project (pin connections are given f
 
 ### LPC1768 pinout
 
-![Microcontroller_image](https://user-images.githubusercontent.com/75081535/180607982-215dc5e2-1476-4e84-b12e-1a585eefa617.png)
+![Microcontroller_image](https://user-images.githubusercontent.com/75081535/180608008-d388cd0f-57d9-4ba9-a8c5-72f608d0ef2a.png)
 
 ### Pin connections
 
